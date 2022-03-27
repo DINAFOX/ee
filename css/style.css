@@ -1,0 +1,83 @@
+.logo {
+   position: absolute;
+   left: 5%;
+   right: 0%;
+   top: 0%;
+   border-radius: 0px 0px 25px 25px;
+}
+.iii {
+   position: absolute;
+width: 100px;
+height: 30px;
+left: 999px;
+top: 13px;
+}
+.nav{
+display: flex; 
+list-style-type: none;
+justify-content: center;
+padding-left: 0%;
+}
+.nav>li>a{
+text-decoration: none;
+position: static;
+color: #808080;
+flex: none;
+flex-grow: 0;
+margin-left:0px;
+margin-right:12px;
+}
+.t
+{
+position: absolute;
+width: 413px;
+left:70px;
+top: 120px;
+color: #50514D;
+
+}
+form {
+background: #F5F5F5;
+position: absolute;
+width: 414px;
+height: 40px;
+left: 70px;
+top: 200px;
+}
+ input, button {
+   border: none;
+   outline: none;
+   border-radius: 113px;
+ }
+ input {
+   width: 100%;
+   height: 42px;
+   background: #F5F5F5;
+   padding-left: 15px;
+ }
+.nn
+{position: absolute;
+   width: 16px;
+   height: 16px;
+   left: 400px;
+   top: 15px;
+}
+.avi
+{
+   display: flex; 
+list-style-type: none;
+justify-content: center;
+padding-left: 0%;
+}
+.avi>li>a{
+text-decoration: none;
+position:static;
+color: #808080;
+flex: none;
+flex-grow: 0;
+margin-left:10px;
+margin-right:122px;
+}
+
+
+
